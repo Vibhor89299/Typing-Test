@@ -93,15 +93,15 @@ typing-test-app/ ├── public/ # Static assets (icons, index.html, etc.) ├
    cd typing-test-app
 
 2. **Install Dependencies**
-    ``bash
+    ```bash
     npm install
 
 3. **Run Development Server**
-    ``bash 
+    ```bash 
     npm run dev
 
 4. **Build and Package for Production:**
-    ``bash
+    ```bash
     npm run build 
     npm run electron:build
 ---
